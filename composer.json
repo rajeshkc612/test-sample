@@ -1,0 +1,12 @@
+{
+    "name": "raja/test",
+    "authors": [
+        {
+            "name": "raja",
+            "email": "rajesh.kc126@gmail.com"
+        }
+    ],
+    "require": {
+    	"psr/log" : "1.0.0"
+    }
+}
